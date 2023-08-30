@@ -44,9 +44,9 @@
     <a href="https://spring.io/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="70" height="50"/>
     </a> 
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+<!--     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70" height="50"/>
-    </a> 
+    </a>  -->
   </p>
 </div>
 
@@ -78,7 +78,7 @@
     <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="70" height="50"/> </a> 
 </p>
 
-<h3 align="left">Devops:</h3>
+<h3 align="left">Cloud:</h3>
 <p align="left" dir="auto">
     <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="70" height="50"/> </a> 
 </p>
