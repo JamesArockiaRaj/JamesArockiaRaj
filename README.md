@@ -1,13 +1,12 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm James Arockia Raj</h1>
 <h3 align="center">A passionate Mobile Application and Full Stack Web Developer!</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?size=626&ext=jpg" />
 
-- 🌱 I’m currently learning **Javascript and Flutter**
+- 🌱 I’m currently learning **MERN and Java Full Stack**
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/JamesArockiaRaj?tab=repositories" target="blank">Github</a>
 
-- 💬 Ask me about **Android, Java**
+- 💬 Ask me about **Android, ReactJS**
 
 - 📫 You can reach me at **dev.jamesraj@gmail.com**
 
@@ -44,9 +43,9 @@
     <a href="https://spring.io/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="70" height="50"/>
     </a> 
-<!--     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70" height="50"/>
-    </a>  -->
+    </a> 
   </p>
 </div>
 
