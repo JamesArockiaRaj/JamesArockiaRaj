@@ -2,21 +2,26 @@
 <h3 align="center">Java Full Stack Developer | Building Real-World Products with React & Spring Boot</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;React+%2B+Spring+Boot+Learner;Building+LocalHub+-+Hyperlocal+Marketplace;Future+Product+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;React+%2B+Spring+Boot+Learner;Building+Hasho+-+Hyperlocal+Marketplace;Future+Product+Engineer" alt="Typing SVG" />
 </p>
 
 <img align="right" alt="Coding" width="360" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?size=626&ext=jpg" />
 
 ## 🚀 About Me
 
-- 💻 Transitioning into **Java Full Stack Development**
+- 💻 Building scalable full-stack applications using **Java Fullstack Development**
 - 🌱 Currently mastering **Java, DSA, React, Spring Boot & MySQL**
 - 📍 Building **Hasho**, a hyperlocal marketplace connecting nearby vendors with customers
 - 📱 Published an Android application on the Play Store (CBC)
 - ☁️ AWS Certified Solutions Architect – Associate | AWS Cloud Practitioner | Microsoft Azure AZ-900
-- 🎯 Target: Product-Based Software Engineer (15+ LPA)
+- 🎯 Target: Product-Based Software Engineer
 
----
+## 🔥 Currently Working On
+
+- 📚 120-Day Java Full Stack Journey
+- 💻 Building Hasho from idea to production
+- 🧩 Solving DSA problems in Java
+- 🚀 Preparing for Product Software Engineer interviews
 
 ## 🛠️ Tech Stack
 
@@ -24,7 +29,6 @@
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50"/>
 </p>
 
 ### Frontend
@@ -65,7 +69,7 @@
 
 ## 🌟 Featured Projects
 
-### 🚀 LocalHub (In Progress)
+### 🚀 Hasho (In Progress)
 A hyperlocal marketplace connecting nearby grocery stores, vegetable vendors, meat shops and local businesses.
 
 **Planned Tech Stack**
@@ -83,7 +87,7 @@ Built using **Java, XML and Supabase**, this application is published on the Goo
 
 ## 📈 Learning Journey
 
-I'm following a structured **120-Day Product Engineer Roadmap**.
+I'm following a structured **Product Engineer Roadmap**.
 
 - ✅ Core Java
 - 🔄 DSA in Java
